@@ -1,4 +1,4 @@
-# VoxelRayTracingDemo
+# VoxelRayTracing
 Simple Showcase of VoxelRayTracing
 
 ![alt text](https://github.com/StayOnSofa/VoxelRayTracingDemo/blob/main/example.png?raw=true)

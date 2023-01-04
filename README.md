@@ -1,5 +1,5 @@
-# VoxelRayTracing
-Simple Showcase of VoxelRayTracing
+# voxel-raycasting
+Simple Showcase of voxel-raytracing
 
 ![alt text](https://github.com/StayOnSofa/VoxelRayTracingDemo/blob/main/example.png?raw=true)
 
